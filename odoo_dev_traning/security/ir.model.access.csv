@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_src/user/odoo_dev_traning_src/user/odoo_dev_traning,src/user/odoo_dev_traning.src/user/odoo_dev_traning,model_src/user/odoo_dev_traning_src/user/odoo_dev_traning,,1,0,0,0

@@ -80,7 +80,7 @@
                         </group>
                         <notebook>
                             <page string="学生">
-                                <button name="%(action_training_student_regiester_view)d" type="action" string="学生注册"  states="confirm" />
+                                <button name= "btnStudentRegister" type="action" string="学生注册"  states="confirm" />
                                 <field name="student_ids"/>
                             </page>
                         </notebook>
