@@ -3,7 +3,7 @@
 from odoo import api, fields, modules
 import datetime
 
-class TrainingLesson(models.Model)：
+class TrainingLesson(models.Model):
     _name = 'training.lesson'
     _description = '课程'
     
