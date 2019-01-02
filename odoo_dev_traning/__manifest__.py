@@ -14,6 +14,9 @@
         'views/training_subject_views.xml',
         'views/training_views.xml',
     ],
+    'demo': [
+        'demo/pscloud_demo.xml',
+    ],
     'qweb': [],
     'js': [],
     'css': [],
